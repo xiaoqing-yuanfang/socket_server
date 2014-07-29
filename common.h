@@ -3,6 +3,9 @@
 
 #define INTERFACE_TYPE_FILE 1
 #define INTERFACE_TYPE_SOCKET 2
+#define TRUE (1)
+#define FALSE (0)
+#define BOOL unsigned char
 #define UINT8 unsigned char
 #define UINT16 unsigned short 
 #define UINT32 unsigned int
